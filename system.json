@@ -1,0 +1,15 @@
+{
+    "id": "Stonetop",
+    "title": "Minimal Stonetop",
+    "description": "A minimal Stonetop implementation",
+    "version": "0.0.1",
+    "compatibility": {
+        "verified": 14
+    },
+    "authors": [{
+        "name": "Pyra"
+    }],
+    "manifest":"",
+    "download":""  
+
+}
