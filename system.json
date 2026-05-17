@@ -9,7 +9,7 @@
     "authors": [{
         "name": "Pyra"
     }],
-    "manifest":"",
+    "manifest":"https://raw.githubusercontent.com/PyraMyst/Stonetop/master/system.json",
     "download":""  
 
 }
