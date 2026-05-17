@@ -10,6 +10,6 @@
         "name": "Pyra"
     }],
     "manifest":"https://raw.githubusercontent.com/PyraMyst/Stonetop/master/system.json",
-    "download":""  
+    "download":"https://github.com/PyraMyst/Stonetop/archive/refs/tags/Release.zip"  
 
 }
